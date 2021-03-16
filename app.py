@@ -45,8 +45,8 @@ if option == 'Sentiment Analysis':
         score = text.sentiment[0]
         sentScores.append(score)
 
-    #Plotting sentiment scores per sentencein line graph
-    st.line_chart(sentScores)
+    # #Plotting sentiment scores per sentencein line graph
+    # st.line_chart(sentScores)
 
     #Polarity and Subjectivity of the entire text inputted
     sentimentTotal = entireText.sentiment
