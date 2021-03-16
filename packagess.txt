@@ -1,0 +1,8 @@
+en-core-web-sm
+gensim
+matplotlib
+pip-chill
+pipreqs
+streamlit
+textblob
+watchdog
