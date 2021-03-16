@@ -6,3 +6,4 @@ pipreqs
 streamlit
 textblob
 watchdog
+nltk
